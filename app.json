@@ -1,0 +1,13 @@
+{
+  "pages":[
+     "pages/index",
+     "pages/logs/logs",
+     "pages/run/run"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "跑步小助手",
+    "navigationBarTextStyle":"black"
+  }
+}
